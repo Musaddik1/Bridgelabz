@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class Factor {
+/*
+ * @Musaddik Ahemd
+ * Program for Factorization of number 
+*/public class Factor {
 	
 	public static void main(String[] args) {
 		

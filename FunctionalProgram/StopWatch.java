@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class StopWatch {
+/*
+ * @Musaddik Ahmed
+ * Program for Stop watch
+*/public class StopWatch {
 	
 	
 	public static void main(String[] args) throws InterruptedException {

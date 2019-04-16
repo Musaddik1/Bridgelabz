@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class Gambler {
+/*
+ *@Musaddik Ahmed
+ *Program for Gambler
+*/public class Gambler {
 	
 	public static void main(String[] args) {
 		

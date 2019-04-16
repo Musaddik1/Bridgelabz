@@ -1,7 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
+/*
+ * @Musaddik Ahemd
+ * Program for Harmonic Series
+*/
 public class Harmonic {
 	
 	public static void main(String[] args) {
@@ -15,7 +18,7 @@ public class Harmonic {
 		{
 			for(int i=1;i<=number;i++)
 			{
-				sum=sum+1/(float)i;
+				sum=sum+1/(float)i;//typecasting i into float
 				
 				
 			}

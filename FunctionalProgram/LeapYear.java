@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class LeapYear {
+/*
+ * @Musaddik Ahemd
+ * Program for lear year or not
+*/public class LeapYear {
 	
 	public static void main(String[] args) {
 		Scanner scanner=new Scanner(System.in);

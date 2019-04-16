@@ -2,8 +2,8 @@ package com.BridgelabzFun;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
-public class PrimeNumberExtended {
+/*
+*/public class PrimeNumberExtended {
 	/*
 	 * public static void IsAnagram(int i,int number ) { char
 	 * str[]=(""+i).toCharArray(); Arrays.sort(str); int temp=Integer.parseInt(new

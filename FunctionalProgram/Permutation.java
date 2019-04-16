@@ -1,7 +1,10 @@
 package com.BridgelabzFun;
 
 import java.lang.reflect.Array;
-
+/*
+ * @Musaddik Ahemd
+ * Program for permutation of String
+*/
 public class Permutation {
 	
 	public void Permute(String string,int i,int l)
@@ -15,7 +18,7 @@ public class Permutation {
 			for(int j=i;j<=l;j++)
 			{
 				string=swap(string,i,j);
-				Permute(string, i+1, l);
+				Permute(string, i+1, l);//recursive fun
 				string=swap(string,i,j);
 			}
 		}
@@ -31,7 +34,7 @@ public class Permutation {
 	public static void main(String[] args) {
 		
 		String string="abc";
-		int len=string.length()-1;
+		int len=string.length()-1;//calculating length of string
 		Permutation per=new Permutation();
 		per.Permute(string, 0, len);
 	}

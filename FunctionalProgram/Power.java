@@ -1,6 +1,8 @@
 package com.BridgelabzFun;
-
-public class Power {
+/*
+ * @Musaddik Ahmed
+ * Program for Power of 2
+*/public class Power {
 	
 	public static void main(String[] args) {
 		

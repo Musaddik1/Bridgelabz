@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class SumofArray {
+/*
+ * @Musaddik Ahmed
+ * Program of sum of array element equal to zero
+*/public class SumofArray {
 	
 	
 	public static void main(String[] args) {

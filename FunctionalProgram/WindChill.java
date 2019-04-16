@@ -1,7 +1,9 @@
 
 package com.BridgelabzFun;
 
-public class WindChill {
+/*
+ * 
+*/public class WindChill {
 	
 	public static void main(String[] args) {
 		

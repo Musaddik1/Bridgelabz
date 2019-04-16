@@ -1,8 +1,10 @@
 package com.BridgelabzFun;
 
 import java.util.Scanner;
-
-public class FlipCoin {
+/*
+ * @Musaddik Ahemd
+ * Program for flip coin
+*/public class FlipCoin {
 	
 	public static void main(String[] args) {
 		

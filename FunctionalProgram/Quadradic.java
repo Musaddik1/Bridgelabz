@@ -2,7 +2,10 @@ package com.BridgelabzFun;
 
 import java.util.Scanner;
 
-public class Quadradic {
+/*
+ * @Musaddik Ahmed
+ * Program for Quadradic equation
+*/public class Quadradic {
 	
 	public static void main(String[] args) {
 		

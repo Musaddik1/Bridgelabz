@@ -5,12 +5,14 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 // Class for 2-D array
 /* 
- * 
+ * @Musaddik Ahmed
+ * Program for printing 2-D array
  */
 public class TwoDArray {
 	
 	Scanner scanner=new Scanner(System.in);
 	PrintWriter pw=new PrintWriter(new OutputStreamWriter(System.out));
+	//method for getting element of int 2-D array
 	public void IntegerArray(int[][] array, int row, int column)
 	{
 		System.out.println("Insert integer array element :");
@@ -22,6 +24,7 @@ public class TwoDArray {
 			}
 		}
 	}
+	//method for getting element of double 2-D array
 	public void DoubleArray(double array[][],int row, int column)
 	{
 		System.out.println("Insert double array Elements :");
@@ -33,6 +36,7 @@ public class TwoDArray {
 			}
 		}
 	}
+	//method for getting element of boolean 2-D array
 	public void booleanArray(boolean array[][],int row, int column)
 	{
 		System.out.println("Insert boolean array elements");
@@ -44,6 +48,7 @@ public class TwoDArray {
 			}
 		}
 	}
+	//method for displaying element of Integer 2-D array
 	public void display(int array[][],int row,int column)
 	{
 		for(int i=0;i<row;i++)
@@ -56,6 +61,7 @@ public class TwoDArray {
 		}
 		
 	}
+	//method for displaying element of double 2-D array
 	public void display(double array[][],int row,int column)
 	{
 		for(int i=0;i<row;i++)
@@ -68,6 +74,7 @@ public class TwoDArray {
 		}
 		
 	}
+	//method for displaying element of Integer 2-D array
 	public void display(boolean array[][],int row,int column)
 	{
 		for(int i=0;i<row;i++)
